@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Semih Marufoğlu"
-  avatar           : "/images/profile_pic.png"
+  avatar           : "profile_pic.png"
   bio              : "Lions in a cage"
   location         : "Antalya,Turkey"
   employer         :
