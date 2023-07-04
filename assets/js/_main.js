@@ -96,3 +96,6 @@ $(document).ready(function(){
   });
 
 });
+import Darkmode from 'darkmode-js';
+
+new Darkmode().showWidget();
