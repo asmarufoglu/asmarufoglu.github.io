@@ -3,11 +3,11 @@ layout: archive
 title: "📜 Curriculum vitae"
 permalink: /cv/
 author_profile: true
-
-📜Detailed CV
-redirect_from: "files\lorem-ipsum.pdf"
+redirect_from:
   - /resume
+Detailed CV: "lorem-ipsum.pdf"
 ---
+
 
 {% include base_path %}
 
