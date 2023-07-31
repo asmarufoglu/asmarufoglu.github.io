@@ -1,24 +1,26 @@
 ---
 layout: archive
-title: "📜CV"
+title: "📜 Curriculum vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
+
+📜Detailed CV
+redirect_from: "files\lorem-ipsum.pdf"
   - /resume
 ---
 
 {% include base_path %}
 
-Education
+h2<Education>h2
 ======
-🎓 B.S. in Akdeniz University, Psychology, 2023
+🎓 B.A. in Akdeniz University, Psychology, 2023
 
 
 Research experience
 ======
-* 2021 - Present 
+2021 - Present 
  * Undergraduate Research Assistant
-  * 🥼 Cognitive Neuroscience Lab.
+   * 🥼 Cognitive Neuroscience Lab.
  
   
 Skills
@@ -28,8 +30,4 @@ Skills
 * Data Analysing
 
 
-📜Detailed CV
- 
-redirect_form: 
-  - /resume
-- 
+
