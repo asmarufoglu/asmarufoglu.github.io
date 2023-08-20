@@ -5,13 +5,13 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-Detailed CV: "lorem-ipsum.pdf"
+
 ---
 
 
 {% include base_path %}
 
-h2<Education>h2
+Education
 ======
 🎓 B.A. in Akdeniz University, Psychology, 2023
 
@@ -31,3 +31,4 @@ Skills
 
 
 
+Detailed CV: 
