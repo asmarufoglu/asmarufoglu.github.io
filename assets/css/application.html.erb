@@ -1,11 +1,8 @@
-<body class="<%= cookies[:theme] %>">
-
-  <% if cookies[:theme] == "light" %>
-    <%= link_to "go dark", root_path(theme: "dark") %>
-  <% else %>
-    <%= link_to "go light", root_path(theme: "light") %>
-  <% end %>
-
+-<body>
++<body class="<%= cookies[:theme] %>">
++  <%= cookies[:theme] %>
++  <%= link_to 'light', set_theme_path(theme: 'light') %>
++  <%= link_to 'dark', set_theme_path(theme: 'dark') %>
++  <%= link_to 'system default', set_theme_path %>
   <%= yield %>
-
 </body>

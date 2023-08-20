@@ -1,0 +1,1 @@
+get 'set_theme', to: 'theme#update'
