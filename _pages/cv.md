@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "📜 Curriculum vitae"
+title: "📜 Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,4 +31,4 @@ Skills
 
 
 
-Detailed CV: 
+Detailed CV[PDF]: http://asmarufoglu.github.io/files/Lorem_ipsum.pdf
