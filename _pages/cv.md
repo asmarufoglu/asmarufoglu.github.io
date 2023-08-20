@@ -31,4 +31,4 @@ Skills
 
 
 
-Detailed CV[PDF]: http://asmarufoglu.github.io/files/Lorem_ipsum.pdf
+📜Detailed CV [PDF](http://asmarufoglu.github.io/files/Lorem_ipsum.pdf)
