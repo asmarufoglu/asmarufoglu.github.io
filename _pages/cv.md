@@ -16,19 +16,19 @@ Education
 🎓 B.A. in Akdeniz University, Psychology, 2023
 
 
-Research experience
+🥼Research experience
 ======
-2021 - Present 
+2021 - 2023
  * Undergraduate Research Assistant
-   * 🥼 Cognitive Neuroscience Lab.
+   * 🧠 Cognitive Neuroscience Lab. at Akdeniz University 
  
   
 Skills
 ======
 * Laboratory Skills
 * Research Skills
-* Data Analysing
+* Statistical Skills
 
 
 
-📜Detailed CV [PDF](http://asmarufoglu.github.io/files/Lorem_ipsum.pdf)
+📜Detailed CV [PDF](http://asmarufoglu.github.io/files/cv.pdf)
